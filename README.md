@@ -1,4 +1,5 @@
-### Hi there. I'm Chris Wonson 👋
+### Hi there. I'm Chris Wonson
+
 
 <!--
 **cwonson/cwonson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
